@@ -1,0 +1,3 @@
+2020-04-10 11:52:31.610  INFO 10740 --- [Test worker] cn.edu.sujcc.DiandianApplicationTests    : Starting DiandianApplicationTests on ASUS with PID 10740 (started by iFunk in D:\Spring\project\diandian)
+2020-04-10 11:52:31.625  INFO 10740 --- [Test worker] cn.edu.sujcc.DiandianApplicationTests    : No active profile set, falling back to default profiles: default
+2020-04-10 11:52:38.080  INFO 10740 --- [Test worker] cn.edu.sujcc.DiandianApplicationTests    : Started DiandianApplicationTests in 7.065 seconds (JVM running for 9.791)

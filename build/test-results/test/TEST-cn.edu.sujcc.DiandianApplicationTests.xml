@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cn.edu.sujcc.DiandianApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-10T03:52:38" hostname="ASUS" time="0.413">
+  <properties/>
+  <testcase name="contextLoads()" classname="cn.edu.sujcc.DiandianApplicationTests" time="0.413"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.5.RELEASE)
+
+2020-04-10 11:52:31.610  INFO 10740 --- [    Test worker] cn.edu.sujcc.DiandianApplicationTests    : Starting DiandianApplicationTests on ASUS with PID 10740 (started by iFunk in D:\Spring\project\diandian)
+2020-04-10 11:52:31.625  INFO 10740 --- [    Test worker] cn.edu.sujcc.DiandianApplicationTests    : No active profile set, falling back to default profiles: default
+2020-04-10 11:52:38.080  INFO 10740 --- [    Test worker] cn.edu.sujcc.DiandianApplicationTests    : Started DiandianApplicationTests in 7.065 seconds (JVM running for 9.791)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
